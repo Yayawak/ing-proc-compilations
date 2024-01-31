@@ -1,0 +1,46 @@
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/appsettings.Development.json
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/appsettings.json
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Image segmentation
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Image segmentation.deps.json
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Image segmentation.runtimeconfig.json
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Image segmentation.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Image segmentation.pdb
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Hosting.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.Console.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.EventLog.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.csproj.AssemblyReference.cache
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.AssemblyInfoInputs.cache
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.AssemblyInfo.cs
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.csproj.CoreCompileInputs.cache
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.csproj.CopyComplete
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/refint/Image segmentation.dll
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.pdb
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/Image segmentation.genruntimeconfig.cache
+/Users/rio/Desktop/Image processing/Image segmentation/Image segmentation/obj/Debug/net7.0/ref/Image segmentation.dll

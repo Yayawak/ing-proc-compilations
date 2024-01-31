@@ -1,0 +1,5 @@
+C:\Users\Vancho\Desktop\YouTube\C#\Library\VMLLib\VMLLib\bin\Debug\VMLLib.dll
+C:\Users\Vancho\Desktop\YouTube\C#\Library\VMLLib\VMLLib\bin\Debug\VMLLib.pdb
+C:\Users\Vancho\Desktop\YouTube\C#\Library\VMLLib\VMLLib\obj\Debug\VMLLib.dll
+C:\Users\Vancho\Desktop\YouTube\C#\Library\VMLLib\VMLLib\obj\Debug\VMLLib.pdb
+C:\Users\Vancho\Desktop\YouTube\C#\Library\VMLLib\VMLLib\obj\Debug\VMLLib.csprojResolveAssemblyReference.cache

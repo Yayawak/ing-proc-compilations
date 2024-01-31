@@ -1,0 +1,5 @@
+C:\KMC\KMC\bin\Debug\KMC.exe.config
+C:\KMC\KMC\bin\Debug\KMC.exe
+C:\KMC\KMC\bin\Debug\KMC.pdb
+C:\KMC\KMC\obj\Debug\KMC.exe
+C:\KMC\KMC\obj\Debug\KMC.pdb
